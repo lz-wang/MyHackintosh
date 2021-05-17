@@ -1,5 +1,5 @@
 # MyHackintosh
-> A Hackintosh repository for lzwang. I like macOS Catalina and Clover rather than BigSur and OpenCore, and the following are my config and EFI
+> A Hackintosh repository for lzwang. I like macOS Catalina with Clover rather than BigSur with OpenCore, and the following are my config and EFI.
 
 ## Screenshot
 
