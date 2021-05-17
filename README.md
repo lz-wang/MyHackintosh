@@ -1,0 +1,2 @@
+# MyHackintosh
+Hackintosh for lzwang
